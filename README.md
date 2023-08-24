@@ -1,0 +1,2 @@
+# FreeGPT4.0APIKEY
+FreeGPT4.0APIKEY 中转 apikey
