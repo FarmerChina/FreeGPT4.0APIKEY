@@ -15,16 +15,18 @@ FreeGPT4.0APIKEY 中转 点击了解👉🏻 <a href="https://oneapi.huinong.co"
 YouTube使用教程：<a href="https://youtu.be/az6RabCuv8Y">OpenAI 中转3.5 和 4.0 APIKey 使用 OneAPI怎么操作 GPTech API的操作流程</a>  
 
 # 我们目前支持AI模型有:
-GPT-4  
-GPT-4-0314  
-GPT-4-1603  
-GPT-4-0613（支持function calling）  
-GPT-4-32k（不支持gpt-4-32k-0613）  
-GPT-3.5-turbo  
-GPT-3.5-turbo-0301  
-GPT-3.5-turbo-0613  
-GPT-3.5-turbo-16k  
-GPT-3.5-turbo-16k-0613  
+gpt-4  
+gpt-4-0314  
+gpt-4-0613
+gpt-4-32k  
+gpt-4-32k-0314
+gpt-4-32k-0613
+gpt-3.5-turbo  
+gpt-3.5-turbo-0301  
+gpt-3.5-turbo-0613  
+gpt-3.5-turbo-16k  
+gpt-3.5-turbo-16k-0613  
+text-embedding-ada-002 等所有3.5模型
 支持DALL-E图片生成  
 Claude-2-100k  
 Claude-instant  
@@ -34,7 +36,6 @@ Midjourney AI画图
 根据最新《生成式人工智能服务管理暂行办法》中提及内容生成式人工智能AI必须对其网站、算法以及训练模型合法备案供者应当明确并公开其服务的适用人群、场合、用途，指导使用者科学理性认识和依法使用生成式人工智能技术，采取有效措施防范未成年人用户过度依赖或者沉迷生成式人工智能服务，按要求对训练数据来源、规模、类型、标注规则、算法机制机理等予以说明，并提供必要的技术、数据等支持和协助。  
 
 4.0 的额度消耗速度是 3.5 的 20 到 40 倍，单次聊天最高可能会消耗高达数万 token，请谨慎使用。  
-目前已知无法直连的网络环境：福建福州的所有网络（流量、宽带）、河南移动和联通（流量、宽带）  
 如果不能打开，就是网络问题，目前还没有解决办法，请自备魔法吧。  
 使用该服务时，有哪些节省 token 的小技巧？  
 携带历史消息数：数量越少，消耗 token 越少，但同时 gpt 会忘记之前的对话  
