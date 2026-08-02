@@ -55,11 +55,11 @@ Claude-instant
 
 **GPT API KEY 中转服务：** [GPTech API](https://home.tpz.pub)
 
-**导航地址：** [https://home.huinong.co](https://home.tpz.pub)
+**导航地址：** [https://home.tpz.pub](https://home.tpz.pub)
 
 当然有任何问题通过以下方式联系我：
 
-- **邮箱：** [ngt@huinong.co](mailto:ngt@huinong.co)
+- **邮箱：** [3194517479@qq.com](mailto:3194517479@qq.com)
 - **微信：** ningjinming1956
 - **Telegram：** [https://t.me/gptechai](https://t.me/gptechai)
 - **QQ Discord：** [https://pd.qq.com/s/h89urfu2a](https://pd.qq.com/s/h89urfu2a)
